@@ -1,2 +1,2 @@
 #!/bin/bash
-find "$current_directory" -type f -name "*.gif"
+find . " -type f -name "*.gif
